@@ -1,5 +1,3 @@
-Claro — genero un README.md listo para copiar, con emoticones y formato amigable.
-
 ## README.md — Cypress QA Automation (Aprendizaje) 🚀
 
 Descripción
